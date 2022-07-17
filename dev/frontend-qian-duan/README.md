@@ -5,6 +5,7 @@
 3. Javascript&#x20;
    1. 基本语法 [https://www.bilibili.com/video/BV1Kq4y1e7d2](https://www.bilibili.com/video/BV1Kq4y1e7d2)
    2. WebAPI [https://www.bilibili.com/video/BV1AT4y1v75t](https://www.bilibili.com/video/BV1AT4y1v75t)
+   3. ES6 [https://www.bilibili.com/video/BV1ay4y1r78B](https://www.bilibili.com/video/BV1ay4y1r78B)
 4. Node.js [https://www.bilibili.com/video/BV1DS4y1Y7L4](https://www.bilibili.com/video/BV1DS4y1Y7L4)
 5. Vue
 6. React

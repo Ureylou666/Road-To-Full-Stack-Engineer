@@ -10,6 +10,7 @@
   * [3.0 JS Case Study](dev/frontend-qian-duan/3.0-js-case-study.md)
   * [3.1 JavaScript 基础](dev/frontend-qian-duan/3.1-javascript-ji-chu.md)
   * [3.2 JavaScript WebAPI](dev/frontend-qian-duan/3.2-javascript-webapi.md)
+  * [3.3 JS面对对象+ES6](dev/frontend-qian-duan/3.3-js-mian-dui-dui-xiang-+es6.md)
 * [Backend 后端](dev/backend-hou-duan.md)
 
 ## 2⃣ Sec
