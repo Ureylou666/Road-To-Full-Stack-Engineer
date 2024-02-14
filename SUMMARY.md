@@ -16,6 +16,7 @@
     * [0004. Median of Two Sorted Arrays](dev/backend-hou-duan/leetcode/0004.-median-of-two-sorted-arrays.md)
     * [0006. Zigzag Conversion](dev/backend-hou-duan/leetcode/0006.-zigzag-conversion.md)
     * [0011. Container With Most Water](dev/backend-hou-duan/leetcode/0011.-container-with-most-water.md)
+    * [0015. 3Sum](dev/backend-hou-duan/leetcode/0015.-3sum.md)
     * [2149. Rearrange Array Elements by Sign](dev/backend-hou-duan/leetcode/2149.-rearrange-array-elements-by-sign.md)
 
 ## 2⃣ Sec
